@@ -6,7 +6,7 @@
 * [Scripts NPM](#scripts-npm)
 * [Componentes Disponibles](#componentes-disponibles)
 
-Boilerplate para el desarrollo de proyectos Frontend basado en Componentes Web con metalenguajes (Pug y Sass) y automatización y optimización de tareas con Scripts NPM desarrollado por [@jonmircha](http://jonmircha.com) modificado y adaptado por [@andresgomez](http://andresgomez.com.co).
+
 
 Después de HTML5, los [componentes web](https://www.webcomponents.org/) son el siguiente gran salto en el paradigma del desarrollo web frontend, pero [aun no están listos](http://caniuse.com/#search=components), sin embargo con herramientas como Node, Scripts NPM, Sass, PostCSS, UnCSS, Pug, Babel, Browserify, entre algunos otros, podemos desarrollar proyectos con la filosofía de reutilización y componetización que proponen los componentes web, sin necesidad de usar frameworks y librerías robustas como [Angular](https://angular.io/), [React](https://facebook.github.io/react/), [Vue.js](https://vuejs.org/) o [Polymer](https://www.polymer-project.org/).
 
